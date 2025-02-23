@@ -21,11 +21,11 @@ Additional dependencies may be required depending on the dataset used.
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Brinda-93/Human-Segmentation-using-Deep-Learning.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd your-repo-name
+   cd Human-Segmentation-using-Deep-Learning
    ```
 3. Launch Jupyter Notebook:
    ```bash
